@@ -1,0 +1,10 @@
+[19-Jun-2016 11:16:23 UTC] PHP Warning:  require_once(/home/babelkhalk/public_html/wp-settings.php): failed to open stream: No such file or directory in /home/babelkhalk/public_html/wp-config-sample.php on line 89
+[19-Jun-2016 11:16:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/babelkhalk/public_html/wp-settings.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/babelkhalk/public_html/wp-config-sample.php on line 89
+[19-Jun-2016 12:03:44 UTC] PHP Warning:  require_once(/home/babelkhalk/public_html/wp-settings.php): failed to open stream: No such file or directory in /home/babelkhalk/public_html/wp-config-sample.php on line 89
+[19-Jun-2016 12:03:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/babelkhalk/public_html/wp-settings.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/babelkhalk/public_html/wp-config-sample.php on line 89
+[20-Jun-2016 22:52:17 UTC] PHP Fatal error:  Call to undefined function the_post_thumbnail_url() in /home/babelkhalk/public_html/wp-content/themes/wega/page-home.php on line 359
+[20-Jun-2016 22:52:22 UTC] PHP Fatal error:  Call to undefined function the_post_thumbnail_url() in /home/babelkhalk/public_html/wp-content/themes/wega/page-home.php on line 359
+[20-Jun-2016 22:53:47 UTC] PHP Fatal error:  Call to undefined function the_post_thumbnail_url() in /home/babelkhalk/public_html/wp-content/themes/wega/page-home.php on line 359
+[20-Jun-2016 22:54:21 UTC] PHP Fatal error:  Call to undefined function the_post_thumbnail_url() in /home/babelkhalk/public_html/wp-content/themes/wega/page-home.php on line 359
+[20-Jun-2016 22:56:38 UTC] PHP Fatal error:  Call to undefined function the_post_thumbnail_url() in /home/babelkhalk/public_html/wp-content/themes/wega/page-home.php on line 359
+[20-Jun-2016 23:02:38 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING) in /home/babelkhalk/public_html/wp-content/themes/wega/page-home.php on line 347
